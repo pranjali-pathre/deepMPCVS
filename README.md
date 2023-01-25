@@ -1,3 +1,8 @@
+# For Installation
+
+- Should have CUDA installed (ideally 11.3 or above) if not then install cudatoolkit-dev from conda.
+- Needs g++ version 7. install `gxx_linux-64=7` from conda. (maybe from conda-forge/label/gcc7 channel)
+
 # flownet2-pytorch 
 
 Pytorch implementation of [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925). 
