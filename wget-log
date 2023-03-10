@@ -1,0 +1,15 @@
+--2023-03-11 00:11:46--  https://drive.google.com/u/0/uc?id=1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da
+Resolving drive.google.com (drive.google.com)... 142.250.195.46, 2404:6800:4007:813::200e
+Connecting to drive.google.com (drive.google.com)|142.250.195.46|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://drive.google.com/uc?id=1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da [following]
+--2023-03-11 00:11:47--  https://drive.google.com/uc?id=1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da
+Reusing existing connection to drive.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘uc?id=1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da’
+
+          uc?id=1hF     [<=>                 ]       0  --.-KB/s               uc?id=1hF8vS6YeHkx3     [ <=>                ]   2.22K  --.-KB/s    in 0s      
+
+2023-03-11 00:11:47 (6.96 MB/s) - ‘uc?id=1hF8vS6YeHkx3j2pfCeQqqZGwA_PJq_Da’ saved [2270]
+
