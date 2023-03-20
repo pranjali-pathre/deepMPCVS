@@ -4,6 +4,12 @@ This repository is the official implementation of **Deep Model Predictive Contro
 
 <font size="+1">[Paper](https://corlconf.github.io/corl2020/paper_448/) | [Project Page](https://robotics.iiit.ac.in/publications/2020/deep-mpc-for-visual-servoing/project-page.html)</font>
 
+To run:
+
+* `git clone https://github.com/pranjali-pathre/flownet2-pytorch/`
+* `scp -r pranjali@10.1.98.140:/home/pranjali/Documents/VisualServoing/FlowNet2_checkpoint.pth.tar ./`
+* `conda activate deepmpcvs`
+* `python run.py ./skokloster-castle 0 0 0 1 0 0 0 1 1 0`
 ## Citation
 
 ```
