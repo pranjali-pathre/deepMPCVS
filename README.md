@@ -8,7 +8,7 @@ To run:
 
 * `git clone https://github.com/pranjali-pathre/deepMPCVS`
 * `cd deepMPCVS`
-* `scp -r pranjali@10.1.98.140:/home/pranjali/Documents/VisualServoing/FlowNet2_checkpoint.pth.tar ./`
+* `scp -r path_to_checkpoint ./`
 * `conda activate deepmpcvs`
 * `python run.py ./skokloster-castle 0 0 0 1 0 0 0 1 1 0`
 ## Citation
